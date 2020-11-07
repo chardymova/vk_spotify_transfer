@@ -1,8 +1,8 @@
 ============================================================================
 
 ### Для работы приложения в файле variables.py нужно указать свои значения:
-1. Client ID spotify.
-2. Client Secret spotify.
+1. `Client ID spotify`.
+2. `Client Secret spotify`.
     Гайд по созданию приложения и получению `Client ID` и `Client Secret`.
     https://developer.spotify.com/documentation/general/guides/app-settings/
     Открыв страницу приложения нажимаем edit settings и указываем в строке Redirect URI значение https://www.spotify.com/
@@ -35,6 +35,7 @@ password = 'example1'
 
 ============================================================================
 
-Требуется установить зависимости из файла requirements.txt
+Требуется установить зависимости из файла `requirements.txt`
+Скрипт запускается через `spoti_part.py`
 
 ============================================================================
