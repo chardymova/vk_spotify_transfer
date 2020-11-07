@@ -1,0 +1,2 @@
+selenium==3.141.0
+spotipy==2.16.0
